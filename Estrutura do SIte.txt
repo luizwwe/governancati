@@ -1,0 +1,17 @@
+/governanca-ti/
+│
+├── index.html                # Página inicial
+├── cobit.html                # Página sobre COBIT
+├── itil.html                 # Página sobre ITIL
+├── iso-27001.html            # Página sobre ISO 27001
+├── balanced-scorecard.html   # Página sobre Balanced Scorecard
+├── quiz.html                 # Página do quiz
+│
+├── css/
+│   └── style.css             # Estilos CSS (opcional, se quiser separar)
+│
+└── images/                   # Pasta para imagens
+    ├── cobit-framework.jpg
+    ├── itil-processes.png
+    ├── iso-27001-logo.png
+    └── balanced-scorecard.png
